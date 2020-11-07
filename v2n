@@ -1,7 +1,20 @@
-TG: https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
-subscribe: https://raw.githubusercontent.com/yuanabraham/subscribe/master/README.md
-subscribe1: https://raw.githubusercontent.com/yuanabraham/subscribe1/main/README.md
-subscribe2: https://raw.githubusercontent.com/yuanabraham/subscribe2/main/README.md
-subscribe3: https://raw.githubusercontent.com/yuanabraham/subscribe3/main/README.md
-freefq: https://raw.githubusercontent.com/freefq/free/master/v2
-Lantern: https://vmess.llt.workers.dev/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>main</title>
+</head>
+<body>
+    <ul>
+        <li>TG: https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md</li>
+        <li>subscribe: https://raw.githubusercontent.com/yuanabraham/subscribe/master/README.md</li>
+        <li>subscribe1: https://raw.githubusercontent.com/yuanabraham/subscribe1/main/README.md</li>
+        <li>subscribe2: https://raw.githubusercontent.com/yuanabraham/subscribe2/main/README.md</li>
+        <li>subscribe3: https://raw.githubusercontent.com/yuanabraham/subscribe3/main/README.md</li>
+        <li>freefq: https://raw.githubusercontent.com/freefq/free/master/v2</li>
+        <li>Lantern: https://vmess.llt.workers.dev/</li>
+    </ul>
+  
+</body>
+</html>
